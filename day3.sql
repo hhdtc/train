@@ -171,11 +171,20 @@ ON CitySellMost.City = CityOrderMost.City
 
 --11
 
-DELETE FROM TableName
-WHERE pk in (
-SELECT t1.id 
-FROM TableName t1
-JOIN TableName t2
-ON t1.DuplicatedColumn1 = t2.DuplicatedColumn1 AND t1.DuplicatedColumn2 = t2.DuplicatedColumn2
-where t1.pk != t2.pk
+-- DELETE FROM TableName
+-- WHERE pk in (
+-- SELECT t1.id 
+-- FROM TableName t1
+-- JOIN TableName t2
+-- ON t1.DuplicatedColumn1 = t2.DuplicatedColumn1 AND t1.DuplicatedColumn2 = t2.DuplicatedColumn2
+-- where t1.pk != t2.pk
+-- )
+
+WITH CTE AS (
+    SELECT 
+        *,
+        ROW_NUMBER() OVER (PARTITION BY column1, column2, ... ORDER BY (SELECT NULL)) AS RowNumber
+    FROM 
+        YourTableName
 )
+DELETE FROM CTE WHERE RowNumber > 1;
