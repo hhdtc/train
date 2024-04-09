@@ -10,13 +10,13 @@ namespace ConsoleApp1
 {
     internal class Assignment02
     {
-        //Test your Knowledge
-        //1. Use string when we do not need to modify the string. Use stringbuilder when we need to modify the string.
-        //2.System.Array
-        //3.Array.Sort(list); Array.Sort(list,ComparingFunction);
-        //4 list.Length
-        //5. by default no. But if you declare Object[], which is not recommanded, you could store multiple types.
-        //6. CopyTo() need to take an array and a start index as arguments. It will copy the element to an existing array.
+        // Test your Knowledge
+        // 1. Use string when we do not need to modify the string. Use stringbuilder when we need to modify the string.
+        // 2.System.Array
+        // 3.Array.Sort(list); Array.Sort(list,ComparingFunction);
+        // 4 list.Length
+        // 5. by default no. But if you declare Object[], which is not recommanded, you could store multiple types.
+        // 6. CopyTo() need to take an array and a start index as arguments. It will copy the element to an existing array.
         //   Clone() return an new array.
         //   Both perform shallow copy, which only copy refernce other than creating new object.
 

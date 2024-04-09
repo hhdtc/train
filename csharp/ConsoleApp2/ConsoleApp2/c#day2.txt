@@ -1,0 +1,84 @@
+1.
+    a.public -- open to everything
+    b.internal -- open to the current project/assembly
+    c.protected -- open to self and children class
+    d.private -- only open to self
+    e.protected internal -- same assembly or derived classes
+    f.private protected -- same assembly's derived classes
+
+2.
+    a.static -- shared value among all instances.
+    b.const -- static and cannot be modified
+    c.readonly -- after initializing, value cannot be changed
+
+3.
+    create an instances
+
+4.
+    paritial split the definition of a class, struct, interface, or method across multiple source files within the same assembly.
+    improve code organization, seperate concern and responsibility, generate code, teamwork, increase extensibility.
+
+5.
+    tuple combines multiple different types into a single object
+
+6.
+    record defines a reference type that is primarily focused on representing immutable data, provide value-based equality comparisons, and enable deconstruction.
+
+7.
+    overload: Same class, same access modifier, same method name, but different input/output parameters
+    override: derived class implenmentation for a method in parent class
+
+8.
+    Fields are variables that are directly declared within a class.
+    Properties are a higher-level concept than fields. They provide a way to encapsulate fields and control access to them by exposing getter and setter methods.
+
+9.
+    1. put it after all the required parameters,
+    2. give it a default value
+
+10.
+    Interface is a constrain that the class need to follow. It specifies a set of methods, properties, events, or indexers that implementing classes must provide.
+    Interfaces only contain method and property signatures. They do not include any fields or constructors.
+
+    Abstract class can have actual method and property.It can contain both abstract and non-abstract (concrete) members. It can include  can include fields, constructors, properties, and 
+
+    class only inherit from 1 abstract class, but can implements multiple interfaces
+
+11.
+    public by default
+
+12.
+    true
+
+13.
+    true
+
+14.
+    false
+
+15.
+    false
+
+16.
+    true
+
+17.
+    true
+
+18.
+    true
+
+19.
+    false
+
+20.
+    false
+
+21.
+    true
+
+22.
+    false
+
+23.
+    true

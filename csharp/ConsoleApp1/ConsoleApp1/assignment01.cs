@@ -8,82 +8,82 @@ namespace ConsoleApp1
 {
     internal class Assignment01
     {
-        //1
-        //telephone num: string
-        //height: float
-        //age: uint or ushort
-        //gender: enum
-        //salary: decimal
-        //ISBN: string
-        //book's price: decimal
-        //shipping weight: float/double
-        //population: long
-        //# of starts in universe: long/BigInteger
-        //The number of employees in each of the small or medium businesses in the United Kingdom(up to about 50,000 employees per business)ushort or uint
+        // 1
+        // telephone num: string
+        // height: float
+        // age: uint or ushort
+        // gender: enum
+        // salary: decimal
+        // ISBN: string
+        // book's price: decimal
+        // shipping weight: float/double
+        // population: long
+        // # of starts in universe: long/BigInteger
+        // The number of employees in each of the small or medium businesses in the United Kingdom(up to about 50,000 employees per business)ushort or uint
 
-        //2
-        //value type stores the actual value in stack. Reference type stores the address in the stack, and the address points to heap. The actual value of refernce type is in heap.
-        //boxing: value type -> reference type
-        //unboxing: reference type -> value type
+        // 2
+        // value type stores the actual value in stack. Reference type stores the address in the stack, and the address points to heap. The actual value of refernce type is in heap.
+        // boxing: value type -> reference type
+        // unboxing: reference type -> value type
 
-        //3
-        //managed resource: the object will be managed by  CLR and clean by garbage collector automatically.
-        //unmanaged resource: the object will be cleaned manually by calling the dispose method from IDisposable interface
+        // 3
+        // managed resource: the object will be managed by  CLR and clean by garbage collector automatically.
+        // unmanaged resource: the object will be cleaned manually by calling the dispose method from IDisposable interface
 
-        //4
-        //prevent memory leak, reduce heap usage,manage the heap usage, and optimise performance.
+        // 4
+        // prevent memory leak, reduce heap usage,manage the heap usage, and optimise performance.
 
 
-        //Test your knowledge:
-        //1.What happens when you divide an int variable by 0?
-        //It will not compile and ide gives DivideByZeroException
-        //
-        //2.What happens when you divide a double variable by 0?
+        // Test your knowledge:
+        // 1.What happens when you divide an int variable by 0?
+        // It will not compile and ide gives DivideByZeroException
+        
+        // 2.What happens when you divide a double variable by 0?
         // (positive double)/0=(positive infinity), (negative double)/0=(negative infinity)
-        //
-        //3.
-        //it will go to the other end.e.x. If it exceed max number, it will start from min number.
+        
+        // 3.
+        // it will go to the other end.e.x. If it exceed max number, it will start from min number.
 
-        //4
-        //x=y++ => x=y, then y+=1
-        //x=++y => y+=1, then x=y
+        // 4
+        // x=y++ => x=y, then y+=1
+        // x=++y => y+=1, then x=y
 
-        //5
-        //break will jump out of the loop
-        //continue will ignore the rest code inside the loop and start the next turn
-        //return will exit the function. It will also break the loop
+        // 5
+        // break will jump out of the loop
+        // continue will ignore the rest code inside the loop and start the next turn
+        // return will exit the function. It will also break the loop
 
-        //6
-        //initializing: int i=0;
-        //condition: i<10;
-        //iteration: i++;
+        // 6
+        // initializing: int i=0;
+        // condition: i<10;
+        // iteration: i++;
 
-        //7
-        //=:respresent assgining the right value to the left
-        //==:comparison operator.
+        // 7
+        // =:respresent assgining the right value to the left
+        // ==:comparison operator.
 
-        //8
-        //yes; infinite for loop
+        // 8
+        // yes; infinite for loop
 
-        //9
-        //default case
+        // 9
+        // default case
 
-        //10
-        //IEnumerable or IEnumerable<T>
-
-
-
-        //Practice loops and operators
-        //1
-        //byte's max value is 255. It will loop forever.
+        // 10
+        // IEnumerable or IEnumerable<T>
 
 
-        //add folowing before the code
-        //if (max > byte.MaxValue){
+
+        // Practice loops and operators
+        // 1
+        // byte's max value is 255. It will loop forever.
+
+
+        // add folowing before the code
+        // if (max > byte.MaxValue){
         //  Debug.Log("infinite loop!!");
-        //}
+        // }
 
-        //3
+        // 3
 
 
 

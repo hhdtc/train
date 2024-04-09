@@ -1,0 +1,15 @@
+G:\train\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+G:\train\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+G:\train\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+G:\train\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+G:\train\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+G:\train\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
