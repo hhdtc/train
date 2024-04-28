@@ -1,0 +1,24 @@
+Dapper: .net micro ORM
+
+ADO.NET
+
+ORM: object realtional mapper/mapping -- responsible for mapping between your database tables and .NET objects.
+
+Traditional ORM(Entity Framework core) : mapping, generate SQL queries, track changes using migration files
+
+Micro ORM: fast mapping between db and .net objects, developers will have full control over sql queries. 
+
+Pros of using dapper: lightweight, fast, easy to use
+
+Dapper provides us a bunch of extension methods on IDbConnection interface:
+--Execute(): insert/update/delete
+--Query(): select
+
+IDbConnection: represent an open connection to the datasource ; contains a property called ConnectionString
+
+SqlConnection: IDbConnection ; class represent the connection to the sql server db
+
+Three packages required for installation:
+1. Dapper
+2. System.Data.SqlClient
+3. Microsoft.Extensions.Configuration.Json

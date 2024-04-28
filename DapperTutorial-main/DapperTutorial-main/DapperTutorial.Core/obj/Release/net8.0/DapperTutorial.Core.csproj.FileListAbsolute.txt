@@ -1,0 +1,12 @@
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\bin\Release\net8.0\DapperTutorial.Core.deps.json
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\bin\Release\net8.0\DapperTutorial.Core.dll
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\bin\Release\net8.0\DapperTutorial.Core.pdb
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.AssemblyInfoInputs.cache
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.AssemblyInfo.cs
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.csproj.CoreCompileInputs.cache
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.sourcelink.json
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.dll
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\refint\DapperTutorial.Core.dll
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\DapperTutorial.Core.pdb
+G:\train\DapperTutorial-main\DapperTutorial-main\DapperTutorial.Core\obj\Release\net8.0\ref\DapperTutorial.Core.dll

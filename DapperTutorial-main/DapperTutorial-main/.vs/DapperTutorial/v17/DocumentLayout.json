@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.presentation\\ui\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|solutionrelative:dappertutorial.presentation\\ui\\manageemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.presentation\\ui\\managedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|solutionrelative:dappertutorial.presentation\\ui\\managedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|solutionrelative:dappertutorial.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|solutionrelative:dappertutorial.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|solutionrelative:dappertutorial.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{507E21EE-E579-4614-8C81-324ECFF31662}|DapperTutorial.Presentation\\DapperTutorial.Presentation.csproj|solutionrelative:dappertutorial.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.infrastructure\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1299CDD-9292-4ED1-B124-A567E54E2433}|DapperTutorial.Infrastructure\\DapperTutorial.Infrastructure.csproj|solutionrelative:dappertutorial.infrastructure\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C006BEDB-0198-4C3C-A8BC-31E9EE80BA50}|DapperTutorial.Core\\DapperTutorial.Core.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C006BEDB-0198-4C3C-A8BC-31E9EE80BA50}|DapperTutorial.Core\\DapperTutorial.Core.csproj|solutionrelative:dappertutorial.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C006BEDB-0198-4C3C-A8BC-31E9EE80BA50}|DapperTutorial.Core\\DapperTutorial.Core.csproj|g:\\train\\dappertutorial-main\\dappertutorial-main\\dappertutorial.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C006BEDB-0198-4C3C-A8BC-31E9EE80BA50}|DapperTutorial.Core\\DapperTutorial.Core.csproj|solutionrelative:dappertutorial.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageDepartment.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\UI\\ManageDepartment.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Presentation\\UI\\ManageDepartment.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\UI\\ManageDepartment.cs",
+              "RelativeToolTip": "DapperTutorial.Presentation\\UI\\ManageDepartment.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:12:10.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageEmployee.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\UI\\ManageEmployee.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Presentation\\UI\\ManageEmployee.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\UI\\ManageEmployee.cs*",
+              "RelativeToolTip": "DapperTutorial.Presentation\\UI\\ManageEmployee.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:09:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "DapperTutorial.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:05:28.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Core\\Entities\\Employee.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "DapperTutorial.Core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:04:44.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Core\\Entities\\Department.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Core\\Entities\\Department.cs",
+              "RelativeToolTip": "DapperTutorial.Core\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:03:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DapperTutorial.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:46:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Infrastructure\\Data\\DbConnection.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Infrastructure\\Data\\DbConnection.cs",
+              "RelativeToolTip": "DapperTutorial.Infrastructure\\Data\\DbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:45:46.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperTutorial.Presentation\\appsettings.json",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\appsettings.json",
+              "RelativeToolTip": "DapperTutorial.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T16:30:58.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "DapperTutorial.Presentation\\Program.cs",
+              "ToolTip": "G:\\train\\DapperTutorial-main\\DapperTutorial-main\\DapperTutorial.Presentation\\Program.cs",
+              "RelativeToolTip": "DapperTutorial.Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:30:50.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
