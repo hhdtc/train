@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Presentation/EntityFramework.Presentation.csproj": {}
+    "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Presentation\\EntityFramework.Presentation.csproj": {}
   },
   "projects": {
-    "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/EntityFramework.Core.csproj": {
+    "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\EntityFramework.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/EntityFramework.Core.csproj",
+        "projectUniqueName": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\EntityFramework.Core.csproj",
         "projectName": "EntityFramework.Core",
-        "projectPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/EntityFramework.Core.csproj",
-        "packagesPath": "/Users/anjila/.nuget/packages/",
-        "outputPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/obj/",
+        "projectPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\EntityFramework.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/anjila/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,34 +66,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/EntityFramework.Infrastructure.csproj": {
+    "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\EntityFramework.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/EntityFramework.Infrastructure.csproj",
+        "projectUniqueName": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\EntityFramework.Infrastructure.csproj",
         "projectName": "EntityFramework.Infrastructure",
-        "projectPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/EntityFramework.Infrastructure.csproj",
-        "packagesPath": "/Users/anjila/.nuget/packages/",
-        "outputPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/obj/",
+        "projectPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\EntityFramework.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/anjila/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/EntityFramework.Core.csproj": {
-                "projectPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Core/EntityFramework.Core.csproj"
+              "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\EntityFramework.Core.csproj": {
+                "projectPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Core\\EntityFramework.Core.csproj"
               }
             }
           }
@@ -95,6 +104,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -126,34 +140,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Presentation/EntityFramework.Presentation.csproj": {
+    "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Presentation\\EntityFramework.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Presentation/EntityFramework.Presentation.csproj",
+        "projectUniqueName": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Presentation\\EntityFramework.Presentation.csproj",
         "projectName": "EntityFramework.Presentation",
-        "projectPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Presentation/EntityFramework.Presentation.csproj",
-        "packagesPath": "/Users/anjila/.nuget/packages/",
-        "outputPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Presentation/obj/",
+        "projectPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Presentation\\EntityFramework.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/anjila/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/EntityFramework.Infrastructure.csproj": {
-                "projectPath": "/Users/anjila/Documents/Miscellaneous/EntityFramework/EntityFramework/EntityFramework.Infrastructure/EntityFramework.Infrastructure.csproj"
+              "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\EntityFramework.Infrastructure.csproj": {
+                "projectPath": "G:\\train\\EntityFramework-main\\EntityFramework-main\\EntityFramework.Infrastructure\\EntityFramework.Infrastructure.csproj"
               }
             }
           }
@@ -162,6 +178,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -195,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

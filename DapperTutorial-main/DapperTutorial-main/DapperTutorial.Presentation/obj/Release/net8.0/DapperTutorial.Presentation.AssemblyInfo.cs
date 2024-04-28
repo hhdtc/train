@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperTutorial.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2dca29afc9e76fcefacd322847d37a888ded10a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f4f635f2e1bb638d757085bea2c326bf1bf44a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperTutorial.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperTutorial.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
