@@ -31,8 +31,12 @@ namespace Training.Ecommerce.MvcApp.Controllers
         }
 
 
-        public IActionResult Add() {
-            ViewBag.ProductId = _productService.GetSelectItem();
+        public IActionResult Create() {
+            ViewBag.ProductId = _productService.GetSelectItem().Select(x => new SelectListItem()
+            {
+                Text = x.Text,
+                Value = x.Value
+            }); ;
             return View();
         }
 
