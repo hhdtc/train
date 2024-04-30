@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Mvc;
 using ApplicationCore.Entities;
 using ApplicationCore.Model.Request;
 using ApplicationCore.Model.Response;
 using ApplicationCore.RepositoryContracts;
+using AutoMapper;
 using Infrastructure.Repository;
+using Infrastructure.Service;
 
 namespace ApplicationCore.ServiceContracts
 {
@@ -15,10 +18,12 @@ namespace ApplicationCore.ServiceContracts
     {
 
         private readonly IProductRepository productRepository;
+        private readonly IMapper _mapper;
 
-        public ProductService(IProductRepository repo)
+        public ProductService(IProductRepository repo, IMapper mapper)
         {
             productRepository = repo;
+            _mapper = mapper;
         }
         public int DeleteProduct(int id)
         {
@@ -35,12 +40,16 @@ namespace ApplicationCore.ServiceContracts
                 {
                     ProductResponseModel m = new ProductResponseModel();
                     m.Id = item.Id;
+                    m.Name = item.Name;
                     m.CategoryId = item.CategoryId;
                     m.Price = item.Price;
-                    m.CategoryName = item.Category.CategoryName;
+                    //m.CategoryName = item.Category.CategoryName;
+                    m.CategoryName = "";
                     lst.Add(m);
                 }
                 return lst;
+
+                //return _mapper.Map<IEnumerable<ProductResponseModel>>(collection);
             }
             return null;
         }
@@ -56,7 +65,11 @@ namespace ApplicationCore.ServiceContracts
                 productResponseModel.Price = product.Price;
                 productResponseModel.CategoryName = product.Category.CategoryName;
                 return productResponseModel;
+
+                return _mapper.Map<ProductResponseModel>(product);
             }
+
+
             return null;
         }
 
@@ -66,8 +79,9 @@ namespace ApplicationCore.ServiceContracts
             {
                 Name = product.Name,
                 Price = product.Price,
-
+                CategoryId = product.CategoryId,
             };
+
 
             return productRepository.Insert(p);
         }
@@ -78,8 +92,17 @@ namespace ApplicationCore.ServiceContracts
             {
                 Name = product.Name,
                 Price = product.Price,
+                CategoryId = product.CategoryId,
             };
             return productRepository.Update(c);
+        }
+
+        public IEnumerable<SelectListItem> GetSelectItem(){
+            return productRepository.GetAll().Select(x => new SelectListItem()
+            {
+                Text = x.Name,
+                Value = x.Id.ToString()
+            });
         }
     }
 }

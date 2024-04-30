@@ -13,7 +13,7 @@ namespace ApplicationCore.Entities
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
-        [Column(TypeName = "decimal(18,4)")]
+        //[Column(TypeName = "decimal(18,4)")]
         public decimal Price { get; set; }
 
     }

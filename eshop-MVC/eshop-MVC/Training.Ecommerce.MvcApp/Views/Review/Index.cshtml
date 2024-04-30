@@ -1,5 +1,5 @@
-﻿@model IEnumerable<ProductResponseModel>
-<h1>Product List</h1>
+﻿@model IEnumerable<ReviewResponseModel>
+<h1>Review List</h1>
 <a href="/products/create">Add New Product</a>
 <table class="table table-bordered table-hover">
     <thead>
@@ -15,8 +15,8 @@
         {
             <tr>
                 <Td>@item.Id</Td>
-                <td>@item.Name</td>
-                <td>@item.Price</td>
+                <td>@item.Comment</td>
+                <td>@item.ProductId</td>
                 <td>
                     @* <a href="/Category/Edit/@item.Id">Edit</a> | *@
 
@@ -31,9 +31,3 @@
         }
     </tbody>
 </table>
-
-@foreach (var item in Model)
-{
-    <partial name="_Card" model="@item" />
-
-}

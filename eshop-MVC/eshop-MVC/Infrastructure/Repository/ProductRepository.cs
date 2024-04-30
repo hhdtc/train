@@ -1,6 +1,7 @@
 ﻿using ApplicationCore.Entities;
 using ApplicationCore.RepositoryContracts;
 using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,14 @@ namespace Infrastructure.Repository
     {
         public ProductRepository(EcommerceDbContext c) : base(c)
         {
+
         }
+
+        /*
+        public IEnumerable<Product> GetAllWithCategory()
+        {
+            return _context.Set<Product>().F ToList();
+        }
+        */
     }
 }

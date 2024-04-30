@@ -9,8 +9,8 @@ namespace ApplicationCore.Entities
 {
     public class Order
     {
-        public int Id { get; set; }
-        public int OrderId { get; set; }
+        public int? Id { get; set; }
+        //public int OrderId { get; set; }
 
         public int ProductId { get; set; }
 
@@ -19,5 +19,8 @@ namespace ApplicationCore.Entities
         public int ShipperId { get; set; }
 
         public int CustomerId { get; set; }
+
+        public ICollection<Review> reviews { get; set; }
+
     }
 }

@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.RepositoryContracts
 {
-    public interface IProductRepository:IRepository<Product>
+    public interface IReviewRepository: IRepository<Review>
     {
-        //public IEnumerable<Product> GetAllWithCategory();
+        public IEnumerable<Review> GetReviewByProductId(int id);
+
+        public IEnumerable<Review> GetReviewByCustomerId(int id);
     }
 }

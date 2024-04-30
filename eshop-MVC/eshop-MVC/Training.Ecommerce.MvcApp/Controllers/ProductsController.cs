@@ -46,6 +46,11 @@ namespace Training.Ecommerce.MvcApp.Controllers
         public IActionResult Create()
         {
             ViewBag.CategoryId = GetCategorySelection();
+            ViewBag.CategoryId = _categoryService.GetAllCategories().Select(x => new SelectListItem()
+            {
+                Text = x.CategoryName,
+                Value = x.Id.ToString()
+            }); 
             return View();
         }
 

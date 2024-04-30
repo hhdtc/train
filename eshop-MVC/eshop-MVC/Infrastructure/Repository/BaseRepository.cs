@@ -11,7 +11,7 @@ namespace Infrastructure.Repository
 {
     public class BaseRepository<T> : IRepository<T> where T : class
     {
-        private readonly EcommerceDbContext _context;
+        protected readonly EcommerceDbContext _context;
         public BaseRepository(EcommerceDbContext c)
         {
                 _context = c;

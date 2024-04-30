@@ -15,6 +15,7 @@ builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IShipperRepository, ShipperRepository>();
 builder.Services.AddScoped<IPromotionRepository, PromotionRepository>();
+builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 #endregion
 
 //service injection
@@ -22,6 +23,7 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IShipperService, ShipperService>();
 builder.Services.AddScoped<IPromotionService, PromotionService>();
+builder.Services.AddScoped<IReviewService, ReviewService>();
 
 
 builder.Services.AddDbContext<EcommerceDbContext>(context => {
@@ -29,7 +31,7 @@ builder.Services.AddDbContext<EcommerceDbContext>(context => {
     //context.UseSqlServer("Data Source=.;Initial Catalog=EcommerceDb;Integrated Security=True;Trust Server Certificate=True");
 });
 
-
+builder.Services.AddAutoMapper(typeof(Program));
 //builder.Services.AddDbContext<EcommerceDbContext>();
 var app = builder.Build();
 
