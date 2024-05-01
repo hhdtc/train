@@ -17,7 +17,7 @@ namespace Infrastructure.Helper
             //CreateMap<Product, ProductRequestModel>();
             CreateMap<ProductResponseModel, Product>().ReverseMap();
 
-            CreateMap<ReviewResponseModel, Review>().ReverseMap();
+            CreateMap<ReviewRequestModel, Review>().ReverseMap();
             CreateMap<ReviewResponseModel, Review>().ReverseMap();
 
 

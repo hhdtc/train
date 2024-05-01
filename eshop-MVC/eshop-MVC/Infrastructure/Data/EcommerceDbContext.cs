@@ -35,9 +35,9 @@ namespace Infrastructure.Data
         public DbSet<ShoppingCart> ShoppingCarts { get; set; }
 
         public DbSet<Shipper> Shippers { get; set; }
-        //public DbSet<Review> Reviews { get; set; }
+        public DbSet<Review> Reviews { get; set; }
 
-
+        public DbSet<PromotionDetail> PromotionDetails { get; set; }
 
     }
 }

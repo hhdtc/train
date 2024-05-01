@@ -22,6 +22,10 @@ namespace Training.Ecommerce.MvcApp.Controllers
             return View(_reviewService.GetAllReview());
         }
 
+        public IActionResult WithCategory(int id) {
+            return View("Index", _reviewService.GetReviewByProductId(id));
+        }
+
         public IActionResult Customer(int id) {
             return View(_reviewService.GetReviewByCustomerId(id));
         }
@@ -41,10 +45,14 @@ namespace Training.Ecommerce.MvcApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add(ReviewRequestModel review)
+        public IActionResult Create(ReviewRequestModel review)
         {
+
+            //only for testing
+            review.OrderId = 4;
+            //review.
             _reviewService.InsertReview(review);
-            return View();
+            return View("Index");
         }
     }
 }
