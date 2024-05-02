@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\train\\TestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\service\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\servicecontracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\model\\request\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\model\\request\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|g:\\train\\testapi\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\ipromotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|g:\\train\\testapi\\applicationcore\\repositorycontracts\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|g:\\train\\testapi\\testapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:12:49.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\ProductService.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Service\\ProductService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\ProductService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwHAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:42:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:39.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IProductRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IProductRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:38.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:02:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:46:57.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Service\\ShipperService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\ShipperService.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Service\\ShipperService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\ShipperService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:42:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Service\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\ReviewService.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Service\\ReviewService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\ReviewService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAUwFEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:42:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Service\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\PromotionService.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Service\\PromotionService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\PromotionService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwEwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:42:42.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\CategoryService.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\CategoryService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAjwEcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:37:21.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IShipperService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IShipperService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IShipperService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:38:11.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IReviewService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IReviewService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IReviewService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:38:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPromotionService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IPromotionService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IPromotionService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IPromotionService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IPromotionService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:38:04.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IProductService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IProductService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:38:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\ICategoryService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\ICategoryService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:37:56.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:17.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IService.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IService.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:38:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRequestModel.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\Model\\Request\\CategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Model\\Request\\CategoryRequestModel.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\Model\\Request\\CategoryRequestModel.cs",
+              "RelativeToolTip": "ApplicationCore\\Model\\Request\\CategoryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:11:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApi\\appsettings.json",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\appsettings.json",
+              "RelativeToolTip": "TestApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T00:09:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAlwCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:42:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CategoryRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:36.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ReviewRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:41.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:34:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CustomerRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:38.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShipperRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\ShipperRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShipperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:34:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PromotionRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\PromotionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PromotionRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\PromotionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PromotionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:33:40.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:24:31.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:44.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\ICustomerRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\ICustomerRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IOrderRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IOrderRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPromotionRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IPromotionRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IPromotionRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IPromotionRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IPromotionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:41.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
+              "ToolTip": "G:\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:23:54.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\Helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "TestApi\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\Helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "TestApi\\Helper\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:19:15.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "G:\\train\\TestApi\\TestApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TestApi\\WeatherForecast.cs",
+              "ToolTip": "G:\\train\\TestApi\\TestApi\\WeatherForecast.cs",
+              "RelativeToolTip": "TestApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:46:16.844Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
