@@ -13,5 +13,8 @@ namespace ApplicationCore.ServiceContracts
         Task<ProductResponseModel> GetProductByIdAsync(int id);
 
         Task<IEnumerable<SelectListItem>> GetSelectItemAsync();
+        //GetProductPageAsync
+
+        Task<IEnumerable<ProductResponseModel>> GetProductPageAsync(int categoryId, int pageNum, int pageSize);
     }
 }

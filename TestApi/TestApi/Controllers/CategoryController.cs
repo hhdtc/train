@@ -16,21 +16,26 @@ namespace TestApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll() {
+        public async Task<IActionResult> GetAllAsync() {
             return Ok(await _categoryServiceAsync.GetAllCategoriesAsync());
         }
 
         [HttpPost]
-        public async Task<IActionResult> Insert(CategoryRequestModel model) {
+        public async Task<IActionResult> InsertAsync(CategoryRequestModel model) {
             return Ok(await _categoryServiceAsync.InsertCategoryAsync(model));
 
         }
 
-        [HttpPost("{Id}")]
-        public async Task<IActionResult> Update(CategoryRequestModel model, int Id)
+        [HttpPut("{Id}")]
+        public async Task<IActionResult> UpdateAsync(CategoryRequestModel model, int Id)
         {
             return Ok(await _categoryServiceAsync.UpdateCategoryAsync(model,Id));
 
+        }
+
+        [HttpDelete("{Id}")]
+        public async Task<IActionResult> DeleteAsync(int id) {
+            return Ok(await _categoryServiceAsync.DeleteCategoryAsync(id));
         }
     }
 }

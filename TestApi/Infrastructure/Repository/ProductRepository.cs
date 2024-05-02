@@ -20,7 +20,7 @@ namespace Infrastructure.Repository
         
         public async Task<IEnumerable<Product>> GetAllWithCategoryAsync(int categoryId, int pageNumber, int pageSize)
         {
-            return await _context.Set<Product>().Skip(pageNumber-1).Take(pageSize).ToListAsync();
+            return await _context.Set<Product>().Where(x=>x.CategoryId==categoryId).Skip(pageNumber-1).Take(pageSize).ToListAsync();
         }
         
     }
