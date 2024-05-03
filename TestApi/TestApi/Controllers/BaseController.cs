@@ -12,19 +12,19 @@ namespace TestApi.Controllers
         public BaseController(IService< Model, Request, Response> service) { _service = service; }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync()
+        public virtual async Task<IActionResult> GetAllAsync()
         {
             return Ok(await _service.GetAllAsync());
         }
 
         [HttpGet("{Id:int}")]
-        public async Task<IActionResult> GetAsync(int Id)
+        public virtual async Task<IActionResult> GetAsync(int Id)
         {
             return Ok(await _service.GetByIdAsync(Id));
         }
 
         [HttpPost]
-        public async Task<IActionResult> InsertAsync(Request model)
+        public virtual async Task<IActionResult> InsertAsync(Request model)
         {
             return Ok(await _service.InsertAsync(model));
 
@@ -32,7 +32,7 @@ namespace TestApi.Controllers
 
         [HttpPut("{Id:int}")]
         //[HttpPut]
-        public async Task<IActionResult> UpdateAsync(Request model, int Id)
+        public virtual async Task<IActionResult> UpdateAsync(Request model, int Id)
         {
             return Ok(await _service.UpdateAsync(model, Id));
 
@@ -40,7 +40,7 @@ namespace TestApi.Controllers
 
         [HttpDelete("{id:int}")]
         //[HttpDelete]
-        public async Task<IActionResult> DeleteAsync(int id)
+        public virtual async Task<IActionResult> DeleteAsync(int id)
         {
             //Console.Write("id is " + id);
             return Ok(await _service.DeleteAsync(id));
