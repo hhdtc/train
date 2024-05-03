@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Review
+    public class Review : HasId
     {
         public int Id { get; set; }
         public int CustomerId { get; set; }

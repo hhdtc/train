@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class CategoryVariation
+    public class CategoryVariation : HasId
     {
         public int Id { get; set; }
         public int CategoryId { get; set; }

@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class OrderDetailRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
 
         public int OrderId { get; set; }
 

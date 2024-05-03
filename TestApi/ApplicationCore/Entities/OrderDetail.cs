@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class OrderDetail
+    public class OrderDetail : HasId
     {
         public int Id { get; set; }
 

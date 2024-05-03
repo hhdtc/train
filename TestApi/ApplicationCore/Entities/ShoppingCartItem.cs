@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class ShoppingCartItem
+    public class ShoppingCartItem : HasId
     {
         public int Id { get; set; }
         public int CartId { get; set; }

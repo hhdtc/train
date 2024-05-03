@@ -3,6 +3,7 @@ using ApplicationCore.Model.Request;
 using ApplicationCore.Model.Response;
 using ApplicationCore.RepositoryContracts;
 using ApplicationCore.ServiceContracts;
+using AutoMapper;
 using Infrastructure.Repository;
 using System;
 using System.Collections.Generic;
@@ -15,9 +16,11 @@ namespace Infrastructure.Service
     public class CategoryServiceAsync : ICategoryServiceAsync
     {
         private readonly ICategoryRepositoryAsync categoryRepository;
-        public CategoryServiceAsync(ICategoryRepositoryAsync repo)
+        private readonly IMapper _mapper;
+        public CategoryServiceAsync(ICategoryRepositoryAsync repo, IMapper mapper)
         {
             categoryRepository = repo;
+            _mapper = mapper;
         }
 
 
@@ -32,6 +35,7 @@ namespace Infrastructure.Service
             var collection = await categoryRepository.GetAllAsync();
             if(collection != null)
             {
+                /*
                 foreach (var item in collection)
                 {
                     CategoryResponseModel m = new CategoryResponseModel();
@@ -40,6 +44,8 @@ namespace Infrastructure.Service
                     lst.Add(m);
                 }
                 return lst;
+                */
+                return _mapper.Map<IEnumerable<CategoryResponseModel>>(collection);
             }
             return null;
         }
@@ -49,29 +55,40 @@ namespace Infrastructure.Service
             var category = await categoryRepository.GetByIdAsync(id);
             if (category != null)
             {
+                /*
              CategoryResponseModel categoryResponseModel = new CategoryResponseModel();
                 categoryResponseModel.Id = category.Id;
                 categoryResponseModel.CategoryName = category.CategoryName;
                 return categoryResponseModel;
+                */
+                return _mapper.Map< CategoryResponseModel > (category);
             }
             return null;
         }
 
         public async Task<int> InsertCategoryAsync(CategoryRequestModel category)
         {
+            /*
             Category c = new Category() {
                 CategoryName = category.CategoryName,
             };
+            */
+
+            Category c = _mapper.Map< Category>(category);
 
            return await categoryRepository.InsertAsync(c);
         }
 
         public async Task<int> UpdateCategoryAsync (CategoryRequestModel category, int id)
         {
+            /*
             Category c = new Category() { 
             CategoryName = category.CategoryName,
             Id = id
             };
+            */
+            Category c = _mapper.Map<Category>(category);
+
             return await categoryRepository.UpdateAsync(c);
         }
 

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ApplicationCore.Entities
 {
     //[Index(nameof(Name), IsUnique = true)]
-    public class Customer
+    public class Customer : HasId
     {
         public int Id { get; set; }
         public string FirstName { get; set; } = string.Empty;

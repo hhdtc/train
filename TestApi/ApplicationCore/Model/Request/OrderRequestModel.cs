@@ -9,7 +9,7 @@ namespace ApplicationCore.Model.Request
 {
     public class OrderRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         //public int OrderId { get; set; }
 
         public DateTime OrderDate { get; set; }

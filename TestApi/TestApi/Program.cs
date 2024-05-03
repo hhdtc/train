@@ -1,6 +1,8 @@
 using ApplicationCore.Entities;
 using ApplicationCore.RepositoryContracts;
 using ApplicationCore.ServiceContracts;
+using Azure.Core;
+using Azure;
 using Infrastructure.Data;
 using Infrastructure.Repository;
 using Infrastructure.Service;
@@ -24,12 +26,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllersWithViews();
 #region repository_injection
 //Repository injection
+builder.Services.AddScoped(typeof(IRepositoryAsync<>), typeof(BaseRepositoryAsync<>));
 builder.Services.AddScoped<ICategoryRepositoryAsync, CategoryRepositoryAsync>();
 builder.Services.AddScoped<IProductRepositoryAsync, ProductRepositoryAsync>();
 builder.Services.AddScoped<IShipperRepositoryAsync, ShipperRepositoryAsync>();
 builder.Services.AddScoped<IPromotionRepositoryAsync, PromotionRepositoryAsync>();
 builder.Services.AddScoped<IReviewRepositoryAsync, ReviewRepositoryAsync>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
+//builder.Services.AddScoped<ICategoryVariationRepositoryAsync, CategoryVariationRepositoryAsync>();
 #endregion
 
 //service injection
@@ -39,6 +43,8 @@ builder.Services.AddScoped<IShipperServiceAsync, ShipperServiceAsync>();
 builder.Services.AddScoped<IPromotionServiceAsync, PromotionServiceAsync>();
 builder.Services.AddScoped<IReviewServiceAsync, ReviewServiceAsync>();
 builder.Services.AddScoped<IAccountServiceAsync, AccountServiceAsync>();
+//builder.Services.AddScoped<typeof(IService<, , ,  >), typeof(BaseService<, , , >)>();
+builder.Services.AddScoped(typeof(IService<,,>), typeof(BaseService<,,>));
 
 
 builder.Services.AddCors(option => {

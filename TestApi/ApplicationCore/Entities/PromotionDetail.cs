@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class PromotionDetail
+    public class PromotionDetail : HasId
     {
         public int Id { get; set; }
 

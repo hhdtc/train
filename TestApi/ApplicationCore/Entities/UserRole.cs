@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class UserRole
+    public class UserRole : HasId
     {
         public int Id { get; set; }
         public int UserId { get; set; }

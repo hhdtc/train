@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class PaymentMethod
+    public class PaymentMethod : HasId
     {
         public int Id { get; set; }
         public int PaymentTyepId { get; set; }

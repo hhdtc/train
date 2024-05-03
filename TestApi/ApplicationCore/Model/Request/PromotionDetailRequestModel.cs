@@ -9,7 +9,7 @@ namespace ApplicationCore.Model.Request
 {
     public class PromotionDetailRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
 
         public int PromotionId { get; set; }
 

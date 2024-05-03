@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class UserAddressRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public int CustomerId { get; set; }
 
         public int AddressId { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class ShoppingCart
+    public class ShoppingCart : HasId
     {
         public int Id { get; set; }
 

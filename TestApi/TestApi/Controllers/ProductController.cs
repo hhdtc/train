@@ -36,9 +36,10 @@ namespace TestApi.Controllers
         }
 
         [HttpDelete("{Id}")]
-        public async Task<IActionResult> DeleteAsync(int id)
+        //[HttpDelete]
+        public async Task<IActionResult> DeleteAsync(int Id)
         {
-            return Ok(await _productServiceAsync.DeleteProductAsync(id));
+            return Ok(await _productServiceAsync.DeleteProductAsync(Id));
         }
 
         [HttpGet]

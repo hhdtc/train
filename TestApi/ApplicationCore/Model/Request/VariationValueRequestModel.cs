@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class VariationValueRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public int VariationId { get; set; }
 
         public int value { get; set; }

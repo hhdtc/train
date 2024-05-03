@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class ReviewRequestModel
     {
-        public int Id { get; set; }
+        // int Id { get; set; }
         public int CustomerId { get; set; }
 
         public DateTime OrderDate { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Region
+    public class Region : HasId
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

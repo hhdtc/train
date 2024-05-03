@@ -10,7 +10,7 @@ namespace ApplicationCore.Model.Request
 {
     public class ShipperRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
         //[Column(TypeName = "decimal(18,4)")]

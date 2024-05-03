@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Shipper
+    public class Shipper : HasId
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

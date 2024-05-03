@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Product
+    public class Product : HasId
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

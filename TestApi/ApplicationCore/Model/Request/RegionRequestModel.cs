@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class RegionRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
     }
 }

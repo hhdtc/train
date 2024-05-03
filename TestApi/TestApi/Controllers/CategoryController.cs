@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace TestApi.Controllers
 {
     [Route("api/[controller]/[action]")]
-    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [ApiController]
     public class CategoryController : ControllerBase
     {
@@ -22,21 +22,31 @@ namespace TestApi.Controllers
         public async Task<IActionResult> GetAllAsync() {
             return Ok(await _categoryServiceAsync.GetAllCategoriesAsync());
         }
+
+        [HttpGet("{Id:int}")]
+        public async Task<IActionResult> GetAllAsync(int Id)
+        {
+            return Ok(await _categoryServiceAsync.GetCategoryByIdAsync(Id));
+        }
+
         [HttpPost]
         public async Task<IActionResult> InsertAsync(CategoryRequestModel model) {
             return Ok(await _categoryServiceAsync.InsertCategoryAsync(model));
 
         }
 
-        [HttpPut("{Id}")]
+        [HttpPut("{Id:int}")]
+        //[HttpPut]
         public async Task<IActionResult> UpdateAsync(CategoryRequestModel model, int Id)
         {
             return Ok(await _categoryServiceAsync.UpdateCategoryAsync(model,Id));
 
         }
 
-        [HttpDelete("{Id}")]
+        [HttpDelete("{id:int}")]
+        //[HttpDelete]
         public async Task<IActionResult> DeleteAsync(int id) {
+            Console.Write("id is " + id);
             return Ok(await _categoryServiceAsync.DeleteCategoryAsync(id));
         }
     }

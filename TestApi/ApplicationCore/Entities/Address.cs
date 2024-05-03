@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Address
+    public class Address : HasId
     {
         public int Id { get; set; }
 

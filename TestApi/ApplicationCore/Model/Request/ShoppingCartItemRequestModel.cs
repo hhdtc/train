@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class ShoppingCartItemRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public int CartId { get; set; }
 
         public int ProductId { get; set; }

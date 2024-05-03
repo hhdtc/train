@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class AddressRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
 
         public string Street1 { get; set; } = string.Empty;
 

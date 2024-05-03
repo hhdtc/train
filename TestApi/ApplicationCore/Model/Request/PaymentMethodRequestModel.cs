@@ -8,7 +8,7 @@ namespace ApplicationCore.Model.Request
 {
     public class PaymentMethodRequestModel
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public int PaymentTyepId { get; set; }
 
         public string Provider { get; set; }

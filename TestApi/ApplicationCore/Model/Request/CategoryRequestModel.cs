@@ -9,6 +9,9 @@ namespace ApplicationCore.Model.Request
     public class CategoryRequestModel
     {
         //public int Id { get; set; }
+        //public int Id { get; set; }
         public string CategoryName { get; set; } = string.Empty;
+
+        public int? ParentCategoryId { get; set; }
     }
 }

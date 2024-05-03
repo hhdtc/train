@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Promotion
+    public class Promotion : HasId
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;

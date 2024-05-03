@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class VariationValue
+    public class VariationValue : HasId
     {
         public int Id { get; set; }
         public int VariationId { get; set; }

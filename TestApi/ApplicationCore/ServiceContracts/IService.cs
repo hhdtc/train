@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.ServiceContracts
 {
-    public interface IService<Repository,Request, Response>
+    public interface IService< Model, Request, Response>
     {
         Task<IEnumerable<Response>> GetAllAsync();
         Task<int> InsertAsync(Request r);
