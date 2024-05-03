@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PnsC7uZkuSwXVcc2fCLAUgluRb9t9Z46KyQ5soDROd0HEmwPNW58tsW4QWYfYgc0GpLyJ0Iy+wbW+kn51VBv+Q==",
+  "dgSpecHash": "XEe0MRha84QB5HTZqAcS+eRBuAqYWMdgoFYHJEE3iBp0gaA5HwfE9EJrndgYnUpgLorPIq5i/oTn9lf2KsOFRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\alex_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

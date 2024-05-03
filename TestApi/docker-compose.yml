@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  testapi:
+    image: ${DOCKER_REGISTRY-}testapi
+    build:
+      context: .
+      dockerfile: TestApi/Dockerfile
+    ports: 
+        - 8080:8080

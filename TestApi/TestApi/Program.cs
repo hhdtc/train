@@ -33,6 +33,7 @@ builder.Services.AddScoped<IShipperRepositoryAsync, ShipperRepositoryAsync>();
 builder.Services.AddScoped<IPromotionRepositoryAsync, PromotionRepositoryAsync>();
 builder.Services.AddScoped<IReviewRepositoryAsync, ReviewRepositoryAsync>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
+builder.Services.AddScoped<IShipperRegionRepositoryAsync, ShipperRegionRepositoryAsync>();
 //builder.Services.AddScoped<ICategoryVariationRepositoryAsync, CategoryVariationRepositoryAsync>();
 #endregion
 
@@ -43,6 +44,7 @@ builder.Services.AddScoped<IShipperServiceAsync, ShipperServiceAsync>();
 builder.Services.AddScoped<IPromotionServiceAsync, PromotionServiceAsync>();
 builder.Services.AddScoped<IReviewServiceAsync, ReviewServiceAsync>();
 builder.Services.AddScoped<IAccountServiceAsync, AccountServiceAsync>();
+builder.Services.AddScoped<IShipperRegionServiceAsync, ShipperRegionServiceAsync>();
 //builder.Services.AddScoped<typeof(IService<, , ,  >), typeof(BaseService<, , , >)>();
 builder.Services.AddScoped(typeof(IService<,,>), typeof(BaseService<,,>));
 
@@ -71,7 +73,8 @@ builder.Services.AddAuthentication(option => {
 });
 
 builder.Services.AddDbContext<EcommerceDbContext>(context => {
-context.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceDb"));
+    context.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceDb"));
+    //context.UseSqlServer(Environment.GetEnvironmentVariable("ECommerceDb"));
 });
 
 builder.Services.AddIdentity<ApplicationUser,IdentityRole>()

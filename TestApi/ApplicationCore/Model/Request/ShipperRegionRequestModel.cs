@@ -10,7 +10,7 @@ namespace ApplicationCore.Model.Request
 
     public class ShipperRegionRequestModel
     {
-        //public int RegionId { get; set; }
+        public int RegionId { get; set; }
 
         public int ShipperId { get; set; }
 

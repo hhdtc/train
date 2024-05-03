@@ -13,6 +13,7 @@ namespace Infrastructure.Repository
     {
         public ShipperRepositoryAsync(EcommerceDbContext c) : base(c)
         {
+            
         }
     }
 }
