@@ -1,11 +1,14 @@
 ﻿using ApplicationCore.Model.Request;
 using ApplicationCore.ServiceContracts;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TestApi.Controllers
 {
     [Route("api/[controller]/[action]")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [ApiController]
     public class CategoryController : ControllerBase
     {
@@ -14,12 +17,11 @@ namespace TestApi.Controllers
         public CategoryController(ICategoryServiceAsync _service) {
             _categoryServiceAsync = _service;
         }
-
+        //[Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAllAsync() {
             return Ok(await _categoryServiceAsync.GetAllCategoriesAsync());
         }
-
         [HttpPost]
         public async Task<IActionResult> InsertAsync(CategoryRequestModel model) {
             return Ok(await _categoryServiceAsync.InsertCategoryAsync(model));

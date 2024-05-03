@@ -37,7 +37,6 @@ namespace Infrastructure.Service
                     ShipperResponseModel m = new ShipperResponseModel();
                     m.Id = item.Id;
                     m.Name = item.Name;
-                    m.Price = item.Price;
                     lst.Add(m);
                 }
                 return lst;
@@ -53,7 +52,6 @@ namespace Infrastructure.Service
                 ShipperResponseModel shipperResponseModel = new ShipperResponseModel();
                 shipperResponseModel.Id = shipper.Id;
                 shipperResponseModel.Name = shipper.Name;
-                shipperResponseModel.Price = shipper.Price;
                 return shipperResponseModel;
             }
             return null;
@@ -64,7 +62,6 @@ namespace Infrastructure.Service
             Shipper p = new Shipper()
             {
                 Name = shipper.Name,
-                Price = shipper.Price,
 
             };
 
@@ -77,7 +74,6 @@ namespace Infrastructure.Service
             {
                 Id = id,
                 Name = shipper.Name,
-                Price = shipper.Price,
             };
             return await shipperRepository.UpdateAsync(c);
         }

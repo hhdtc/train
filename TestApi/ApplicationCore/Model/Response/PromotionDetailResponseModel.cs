@@ -13,10 +13,8 @@ namespace ApplicationCore.Model.Response
 
         public int PromotionId { get; set; }
 
-        public Promotion Promotion { get; set; }
 
         public int ProductCategoryId { get; set; }
 
-        public Category Category { get; set; }
     }
 }

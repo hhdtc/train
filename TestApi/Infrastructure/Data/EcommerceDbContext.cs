@@ -1,4 +1,5 @@
 ﻿using ApplicationCore.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
-    public class EcommerceDbContext:DbContext
+    public class EcommerceDbContext:IdentityDbContext<ApplicationUser>
     {
         public EcommerceDbContext(DbContextOptions<EcommerceDbContext> options):
             base(options)
@@ -39,5 +40,30 @@ namespace Infrastructure.Data
 
         public DbSet<PromotionDetail> PromotionDetails { get; set; }
 
+        public DbSet<CategoryVariation> CategoryVariations { get; set; }
+
+        public DbSet<VariationValue> VariationValues { get; set; }
+
+        public DbSet<ProductVariationValues> ProductVariationValues { get; set; }
+
+        public DbSet<Region> Regions { get; set; }
+
+        public DbSet<ShipperRegion> ShipperRegions { get; set; }
+
+        public DbSet<Role> Roles { get; set; }
+
+        public DbSet<UserRole> UserRoles { get; set; }
+
+        public DbSet<Address> Address { get; set; }
+
+        public DbSet<UserAddress> userAddresses { get; set; }
+
+        public DbSet<ShoppingCartItem> shoppingCartItems { get; set; }
+
+        public DbSet<PaymentType> paymentTypes { get; set; }
+
+        public DbSet<PaymentMethod> PaymentMethods { get; set; }
+
+        public DbSet<OrderDetail> OrderDetails { get; set; }
     }
 }

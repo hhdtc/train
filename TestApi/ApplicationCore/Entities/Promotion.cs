@@ -15,6 +15,10 @@ namespace ApplicationCore.Entities
         [Column(TypeName = "decimal(18,4)")]
         public decimal Discount { get; set; }
 
+        public DateTime StartDate { get; set; }
+
+        public DateTime EndDate { get; set; }
+
 
     }
 }

@@ -44,7 +44,7 @@ namespace ApplicationCore.ServiceContracts
                     m.CategoryId = item.CategoryId;
                     m.Price = item.Price;
                     //m.CategoryName = item.Category.CategoryName;
-                    m.CategoryName = "";
+                    //m.CategoryName = "";
                     lst.Add(m);
                 }
                 return lst;
@@ -63,7 +63,7 @@ namespace ApplicationCore.ServiceContracts
                 productResponseModel.Id = product.Id;
                 productResponseModel.CategoryId = product.CategoryId;
                 productResponseModel.Price = product.Price;
-                productResponseModel.CategoryName = product.Category.CategoryName;
+                //productResponseModel.CategoryName = product.Category.CategoryName;
                 return productResponseModel;
 
                 return _mapper.Map<ProductResponseModel>(product);

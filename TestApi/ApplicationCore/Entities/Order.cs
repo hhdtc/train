@@ -9,16 +9,35 @@ namespace ApplicationCore.Entities
 {
     public class Order
     {
-        public int? Id { get; set; }
+        public int Id { get; set; }
         //public int OrderId { get; set; }
 
-        public int ProductId { get; set; }
+        public DateTime OrderDate { get; set; }
 
-        public Product Product { get; set; }
-
-        public int ShipperId { get; set; }
 
         public int CustomerId { get; set; }
+
+        public Customer Customer { get; set; }
+
+        public string CustomerName { get; set; }
+
+        public int? PaymentMethodId { get; set; }
+
+        public PaymentMethod PaymentMethod { get; set; }
+
+        public string PaymentName { get; set; }
+
+        public string ShippingAddress { get; set; }
+
+        public int ShippingMethod {  get; set; }
+
+        public Decimal BillAmount { get; set; }
+
+        public int OrderStatus { get; set; }
+
+
+
+        
 
         public ICollection<Review> reviews { get; set; }
 

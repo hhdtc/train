@@ -7,21 +7,28 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    [Index(nameof(Name), IsUnique = true)]
+    //[Index(nameof(Name), IsUnique = true)]
     public class Customer
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public  string Address { get; set; }
+        public string FirstName { get; set; } = string.Empty;
 
-        public string Password { get; set; }
+        public string LastName { get; set; } = string.Empty;
+
+        public int Gender { get; set; } = -1;
+
+        public string Phone { get; set; } = string.Empty;
+
+        public string Profile_PIC = string.Empty;
+
+
         //0 is customer, 1 is admin
-        public int Type { get; set; }
+        public int UserId { get; set; }
+        public ApplicationUser User { get; set; }
 
-        public ShoppingCart ShoppingCart { get; set; }
 
-        public Order Order { get; set; }
 
 
     }
+
 }

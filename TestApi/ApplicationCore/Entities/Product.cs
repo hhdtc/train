@@ -18,5 +18,13 @@ namespace ApplicationCore.Entities
         public int CategoryId { get; set; }
 
         public Category  Category { get; set; }
+
+        public string Description { get; set; } = string.Empty;
+
+        public decimal Qty { get; set; } = decimal.Zero;
+
+        public string ProductImage { get; set; } = string.Empty;
+
+        public string SKU { get; set; } = string.Empty;
     }
 }

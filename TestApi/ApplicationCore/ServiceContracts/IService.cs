@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.ServiceContracts
 {
-    public interface IService<Request,Response>
+    public interface IService<Repository,Request, Response>
     {
-        IEnumerable<Response> GetAllAsync();
-        int InsertAsync(Request r);
-        int UpdateAsync(Request r);
-        int DeleteAsync(int id);
-        Response GetByIdAsync(int id);
+        Task<IEnumerable<Response>> GetAllAsync();
+        Task<int> InsertAsync(Request r);
+        Task<int> UpdateAsync(Request r,int id);
+        Task<int> DeleteAsync(int id);
+        Task<Response> GetByIdAsync(int id);
     }
 }
