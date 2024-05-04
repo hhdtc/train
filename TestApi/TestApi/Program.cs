@@ -74,6 +74,7 @@ builder.Services.AddAuthentication(option => {
 
 builder.Services.AddDbContext<EcommerceDbContext>(context => {
     context.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceDb"));
+    //context.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceDbSa"));
     //context.UseSqlServer(Environment.GetEnvironmentVariable("ECommerceDb"));
 });
 
