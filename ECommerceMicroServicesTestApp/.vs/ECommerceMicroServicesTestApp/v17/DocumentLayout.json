@@ -1,0 +1,1208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\util\\urlconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\util\\urlconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\hasid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\hasid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\servicecontract\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\servicecontract\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\repositorycontract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\repositorycontract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.infrastructure\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\model\\responsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\model\\responsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\model\\requestmodel\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\model\\requestmodel\\orderrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\model\\requestmodel\\orderdetailrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\model\\requestmodel\\orderdetailrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\productcatalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\productcatalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Migrations\\20240507004926_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Order.Infrastructure\\Migrations\\20240507004926_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\repositorycontract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\repositorycontract\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\variationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\variationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\model\\responsemodel\\orderresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\model\\responsemodel\\orderresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\model\\responsemodel\\orderdetailresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\model\\responsemodel\\orderdetailresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\model\\responsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\model\\responsemodel\\productresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\entity\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\entity\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.applicationcore\\order.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{324832A7-B565-438A-A97F-A882362BBC42}|Order.ApplicationCore\\Order.ApplicationCore.csproj|solutionrelative:order.applicationcore\\order.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.infrastructure\\order.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\order.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB839145-9086-42F1-A70E-1D804B1163D9}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\model\\requestmodel\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\model\\requestmodel\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\model\\responsemodel\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\model\\responsemodel\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\model\\requestmodel\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\model\\requestmodel\\productrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\orderapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\orderapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\productcatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\productcatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\productvariationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\productvariationvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\hasid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\hasid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\entity\\categoryvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\entity\\categoryvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.infrastructure\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.infrastructure\\productcatalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\productcatalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\servicecontract\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\servicecontract\\iserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.applicationcore\\productcatalog.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B28E621-89F8-41A1-84AD-9AF374B14E12}|ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj|solutionrelative:productcatalog.applicationcore\\productcatalog.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1AF86E-E26E-4878-8F64-38D7029FA009}|ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EA6C1CA-061F-4C73-B0D6-9F796D6BEB03}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\productcatalog\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A884CF-6634-443A-A019-52799F49430B}|ProductCatalog\\ProductCatalog.csproj|solutionrelative:productcatalog\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|c:\\users\\alex_\\documents\\github\\train\\ecommercemicroservicestestapp\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{60EF55A3-69FF-49C7-BDEC-FBC6BBFB6D66}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Program.cs",
+              "RelativeToolTip": "OrderApi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:05:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "OrderApi\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwDcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:50:12.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:37:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "OrderApi\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:06:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "URLConstant.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Util\\URLConstant.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Util\\URLConstant.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Util\\URLConstant.cs",
+              "RelativeToolTip": "OrderApi\\Util\\URLConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:32:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "OrderApi\\helper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "OrderApi\\helper\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:04:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HasId.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\HasId.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\HasId.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\HasId.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\HasId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:26:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:36:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:36:21.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Service\\BaseService.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Service\\BaseService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:45:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAewC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:34:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA+wBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:02:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\OrderDetail.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\OrderDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:59:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\RequestModel\\OrderRequestModel.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Model\\RequestModel\\OrderRequestModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\RequestModel\\OrderRequestModel.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Model\\RequestModel\\OrderRequestModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:29:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\RequestModel\\OrderDetailRequestModel.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Model\\RequestModel\\OrderDetailRequestModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\RequestModel\\OrderDetailRequestModel.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Model\\RequestModel\\OrderDetailRequestModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:00:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductCatalog\\Dockerfile",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Dockerfile",
+              "RelativeToolTip": "ProductCatalog\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAC0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T20:06:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Dockerfile",
+              "RelativeDocumentMoniker": "OrderApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\Dockerfile",
+              "RelativeToolTip": "OrderApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T20:10:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\appsettings.json",
+              "RelativeToolTip": "OrderApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T00:29:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Class1.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Class1.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Class1.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:24:03.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderApi.http",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.http",
+              "RelativeDocumentMoniker": "OrderApi\\OrderApi.http",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.http",
+              "RelativeToolTip": "OrderApi\\OrderApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T00:59:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Program.cs",
+              "RelativeToolTip": "ProductCatalog\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:11:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\appsettings.json",
+              "RelativeToolTip": "ProductCatalog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T00:28:12.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductCatalog\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\appsettings.Development.json",
+              "RelativeToolTip": "ProductCatalog\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T00:51:26.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductCatalog.http",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\ProductCatalog.http",
+              "RelativeDocumentMoniker": "ProductCatalog\\ProductCatalog.http",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\ProductCatalog.http",
+              "RelativeToolTip": "ProductCatalog\\ProductCatalog.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T00:57:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240507004926_init.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Migrations\\20240507004926_init.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Migrations\\20240507004926_init.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Migrations\\20240507004926_init.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Migrations\\20240507004926_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:49:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\Order.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\Order.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:26:24.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:34:25.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:53:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240507004601_init.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\Migrations\\20240507004601_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:46:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:35:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\RepositoryContract\\IRepositoryAsync.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:28:43.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:19:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VariationValue.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\VariationValue.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\VariationValue.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\VariationValue.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\VariationValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:04:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\Category.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:58:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\Customer.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:30:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:41:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAKABAAAAAAAAAAAWwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-07T00:18:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "ProductCatalog\\Helper\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:57:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\model\\Product.cs",
+              "RelativeDocumentMoniker": "OrderApi\\model\\Product.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\model\\Product.cs",
+              "RelativeToolTip": "OrderApi\\model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:04:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\OrderResponseModel.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Model\\ResponseModel\\OrderResponseModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\OrderResponseModel.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Model\\ResponseModel\\OrderResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:29:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderDetailResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\OrderDetailResponseModel.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Model\\ResponseModel\\OrderDetailResponseModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Model\\ResponseModel\\OrderDetailResponseModel.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Model\\ResponseModel\\OrderDetailResponseModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:01:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Model\\ResponseModel\\ProductResponseModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:46:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\Product.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:00:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Entity\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Entity\\PaymentMethod.cs",
+              "RelativeToolTip": "Order.ApplicationCore\\Entity\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:32:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Order.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Order.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Order.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Order.Infrastructure.csproj",
+              "RelativeToolTip": "Order.Infrastructure\\Order.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T22:33:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Order.ApplicationCore",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Order.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Order.ApplicationCore\\Order.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.ApplicationCore\\Order.ApplicationCore.csproj",
+              "RelativeToolTip": "Order.ApplicationCore\\Order.ApplicationCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T22:25:34.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:24:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:13:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:37:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\RequestModel\\CategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Model\\RequestModel\\CategoryRequestModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\RequestModel\\CategoryRequestModel.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Model\\RequestModel\\CategoryRequestModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:11:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\ResponseModel\\CategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Model\\ResponseModel\\CategoryResponseModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\ResponseModel\\CategoryResponseModel.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Model\\ResponseModel\\CategoryResponseModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:11:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderApi",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.csproj",
+              "RelativeDocumentMoniker": "OrderApi\\OrderApi.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.csproj",
+              "RelativeToolTip": "OrderApi\\OrderApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T22:03:46.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Class1.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Class1.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:54:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\RequestModel\\ProductRequestModel.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Model\\RequestModel\\ProductRequestModel.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Model\\RequestModel\\ProductRequestModel.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Model\\RequestModel\\ProductRequestModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:46:15.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProductVariationValue.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\ProductVariationValue.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\ProductVariationValue.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\ProductVariationValue.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\ProductVariationValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:04:33.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HasId.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\HasId.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\HasId.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\HasId.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\HasId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:59:25.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CategoryVariation.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\CategoryVariation.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\Entity\\CategoryVariation.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\Entity\\CategoryVariation.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\Entity\\CategoryVariation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:01:11.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductCatalog",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\ProductCatalog.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog\\ProductCatalog.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\ProductCatalog.csproj",
+              "RelativeToolTip": "ProductCatalog\\ProductCatalog.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T19:58:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-06T19:50:58.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T19:50:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:39:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Service\\BaseService.cs",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\Service\\BaseService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:36:16.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\ServiceContract\\IServiceAsync.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:29:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductCataLog.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\ProductCataLog.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T20:51:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductCatalog.ApplicationCore",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj",
+              "RelativeToolTip": "ProductCatalog.ApplicationCore\\ProductCatalog.ApplicationCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T20:56:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderApi",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.csproj",
+              "RelativeDocumentMoniker": "OrderApi\\OrderApi.csproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\OrderApi\\OrderApi.csproj",
+              "RelativeToolTip": "OrderApi\\OrderApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T20:06:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ProductCataLog.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCataLog.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ProductCataLog.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:35:38.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:16:31.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\ProductCatalog\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductCatalog\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:15:06.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T19:51:11.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

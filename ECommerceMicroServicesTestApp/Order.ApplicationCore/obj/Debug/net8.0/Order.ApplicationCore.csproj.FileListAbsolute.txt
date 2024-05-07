@@ -1,0 +1,15 @@
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.deps.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.runtimeconfig.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.AssemblyInfo.cs
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.sourcelink.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\refint\Order.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.genruntimeconfig.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Order.ApplicationCore\obj\Debug\net8.0\ref\Order.ApplicationCore.dll

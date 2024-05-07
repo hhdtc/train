@@ -8,7 +8,7 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-ENV ECommerceDb "Data Source=192.168.0.1;Initial Catalog=EcommerceDb;Integrated Security=True;Trust Server Certificate=True"
+ENV ECommerceDb="Data Source=host.docker.internal;Initial Catalog=EcommerceDb;User ID=sa;Password=SomeStrongPassword123!;Integrated Security=False;Trust Server Certificate=True"
 
 COPY ["TestApi/TestApi.csproj", "TestApi/"]
 COPY ["ApplicationCore/ApplicationCore.csproj", "ApplicationCore/"]

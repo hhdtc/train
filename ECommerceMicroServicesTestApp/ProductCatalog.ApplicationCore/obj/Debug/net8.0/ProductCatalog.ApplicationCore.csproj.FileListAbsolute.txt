@@ -1,0 +1,15 @@
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\bin\Debug\net8.0\ProductCatalog.ApplicationCore.deps.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\bin\Debug\net8.0\ProductCatalog.ApplicationCore.runtimeconfig.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\bin\Debug\net8.0\ProductCatalog.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\bin\Debug\net8.0\ProductCatalog.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.AssemblyInfo.cs
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.sourcelink.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\refint\ProductCatalog.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ProductCatalog.ApplicationCore.genruntimeconfig.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\ProductCatalog.ApplicationCore\obj\Debug\net8.0\ref\ProductCatalog.ApplicationCore.dll
