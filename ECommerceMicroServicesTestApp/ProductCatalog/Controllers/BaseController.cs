@@ -35,12 +35,12 @@ namespace ProductCatalog.Controllers
 
         }
 
-        [HttpDelete("{id:int}")]
+        [HttpDelete("{Id:int}")]
         //[HttpDelete]
-        public virtual async Task<IActionResult> DeleteAsync(int id)
+        public virtual async Task<IActionResult> DeleteAsync(int Id)
         {
             //Console.Write("id is " + id);
-            return Ok(await _service.DeleteAsync(id));
+            return Ok(await _service.DeleteAsync(Id));
         }
     }
 }

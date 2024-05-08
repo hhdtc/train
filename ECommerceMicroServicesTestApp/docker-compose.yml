@@ -17,3 +17,12 @@ services:
     ports:
     - 43157:8080
 
+
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+    - 8080:8080
+

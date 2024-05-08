@@ -49,6 +49,14 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.17.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -137,6 +145,14 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.17.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -202,6 +218,9 @@
             "projectReferences": {
               "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Order.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ECommerceMicroServicesTestApp\\Order.Infrastructure\\Order.Infrastructure.csproj"
+              },
+              "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\ShareMessageService.csproj": {
+                "projectPath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\ShareMessageService.csproj"
               }
             }
           }
@@ -224,6 +243,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.17.1, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -267,6 +294,66 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\ShareMessageService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\ShareMessageService.csproj",
+        "projectName": "ShareMessageService",
+        "projectPath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\ShareMessageService.csproj",
+        "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alex_\\Documents\\GitHub\\train\\ShareMessageService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alex_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

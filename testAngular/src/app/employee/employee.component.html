@@ -1,0 +1,29 @@
+<p>
+This is employee Components
+</p>
+
+
+2+5 = {{2+5}} <br/>
+2*5 = {{2*5}} <br/>
+a is {{a}} <br/>
+b is {{b}} <br/>
+a+b = {{a+b}} <br/>
+
+<div>
+{{employee.id}};{{employee.name | uppercase}};{{employee.age}};{{employee.salary | currency:'CNY'}};
+{{employee.dob | date: 'shortDate'}}
+</div>
+
+
+<input type = "text" [value] = "employeeName"/>
+
+<input type = "button" value="alert" (click)="showMessage()"/>
+
+<div *ngIf = "showDiv">
+    this is a div element showing with ngIf
+</div>
+
+<ol >
+    <li *ngFor = "let item of countries; index as i; first as f; last as l; even as e">{{item}} {{i}} first?{{f}} last?{{l}} even?{{e}}</li>
+</ol>
+<hr/>

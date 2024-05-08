@@ -1,0 +1,12 @@
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\bin\Debug\net8.0\ShareMessageService.deps.json
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\bin\Debug\net8.0\ShareMessageService.dll
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\bin\Debug\net8.0\ShareMessageService.pdb
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.AssemblyInfoInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.AssemblyInfo.cs
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.sourcelink.json
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.dll
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\refint\ShareMessageService.dll
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.pdb
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ref\ShareMessageService.dll

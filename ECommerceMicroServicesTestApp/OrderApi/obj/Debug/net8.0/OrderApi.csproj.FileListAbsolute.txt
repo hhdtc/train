@@ -146,3 +146,12 @@ C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Order.Infrastructure.dll
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Order.Infrastructure.pdb
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Order.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\ShareMessageService.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\OrderApi\bin\Debug\net8.0\ShareMessageService.pdb

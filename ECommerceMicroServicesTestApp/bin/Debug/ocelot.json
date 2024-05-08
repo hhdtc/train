@@ -1,0 +1,249 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/Product/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Product/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Product/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Product/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Product/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Product/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Product/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Product/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Product/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Product/Delete/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Category/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Category/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Category/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Category/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Category/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Category/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Category/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Category/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Category/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "productcatalog",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Category/Delete/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Order/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Order/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Order/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Order/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Order/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Order/Delete/{Id}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/OrderDetail/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/OrderDetail/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderDetail/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/OrderDetail/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderDetail/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/OrderDetail/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderDetail/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/OrderDetail/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/OrderDetail/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "orderapi",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/OrderDetail/Delete/{Id}"
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:8080"
+  }
+}
