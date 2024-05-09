@@ -11,12 +11,48 @@
       "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\controllers\\shipperregioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\shipperregioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\service\\shipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\shipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\repository\\shipperregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shipperregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\repositorycontracts\\ishipperregionrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\ishipperregionrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\servicecontracts\\ishipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\ishipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97B7AFD0-9C9A-4D88-88BB-9CD5AA61D168}|docker-compose.dcproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -33,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,22 +163,6 @@
       "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\model\\request\\paymenttyperequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\testapi\\controllers\\shipperregioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064E7A84-D39A-4CCE-AA48-2570404C61A7}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\shipperregioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\service\\shipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\shipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\repository\\shipperregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shipperregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\repositorycontracts\\ishipperregionrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\repositorycontracts\\ishipperregionrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\infrastructure\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF05B746-4670-4175-824D-65B61576B91F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -161,10 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\servicecontracts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\servicecontracts\\ishipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\servicecontracts\\ishipperregionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\servicecontracts\\ishipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,24 +251,12 @@
       "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipperregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{355E61FC-E3F0-4D59-8C9C-AF983A71EAFB}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\alex_\\documents\\github\\train\\testapi\\applicationcore\\entities\\promotiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -623,19 +623,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\OrderDetail.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAFAAAA",
+              "DocumentIndex": 4,
+              "Title": "ShipperRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ShipperRegionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShipperRegionRepository.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ShipperRegionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShipperRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:23:10.285Z",
+              "WhenOpened": "2024-05-03T20:08:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipperRegionService.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\ShipperRegionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\ShipperRegionService.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\ShipperRegionService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\ShipperRegionService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:27:18.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipperRegionController.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\ShipperRegionController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\ShipperRegionController.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\ShipperRegionController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\ShipperRegionController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:40:39.395Z",
               "EditorCaption": ""
             },
             {
@@ -646,40 +672,53 @@
               "RelativeDocumentMoniker": "TestApi\\Dockerfile",
               "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Dockerfile",
               "RelativeToolTip": "TestApi\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-03T18:42:01.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-03T18:41:11.724Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAArwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:42:17.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\appsettings.json",
-              "RelativeDocumentMoniker": "TestApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\appsettings.json",
-              "RelativeToolTip": "TestApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T00:09:12.94Z",
+              "DocumentIndex": 5,
+              "Title": "IShipperRegionRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
+              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:06:45.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "IShipperRegionService.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
+              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:24:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationMapper.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Helper\\ApplicationMapper.cs",
               "RelativeDocumentMoniker": "TestApi\\Helper\\ApplicationMapper.cs",
@@ -692,20 +731,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Program.cs",
-              "RelativeDocumentMoniker": "TestApi\\Program.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Program.cs",
-              "RelativeToolTip": "TestApi\\Program.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAE0AAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:42:17.448Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\appsettings.json",
+              "RelativeToolTip": "TestApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T00:09:12.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Data\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\EcommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Data\\EcommerceDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\EcommerceDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:58:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Region.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Region.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Region.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:37:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShipperRegion.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShipperRegion.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ShipperRegion.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShipperRegion.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\ShipperRegion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:39:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Shipper.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Shipper.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Shipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:32:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Order.cs",
@@ -713,12 +804,35 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Order.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:02.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:02.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T18:41:11.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:23:10.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\BaseController.cs",
@@ -726,25 +840,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\BaseController.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:13:56.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T02:13:56.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EcommerceDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Data\\EcommerceDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\EcommerceDbContext.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Data\\EcommerceDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\EcommerceDbContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:58:59.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "PaymentType.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\PaymentType.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\PaymentType.cs",
@@ -752,12 +852,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\PaymentType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:07:39.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:07:39.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\PaymentMethod.cs",
@@ -765,12 +864,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\PaymentMethod.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAmwBUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:08:56.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:08:56.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Customer.cs",
@@ -778,12 +876,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Customer.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:00.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:00.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\OrderController.cs",
@@ -791,12 +888,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:49:26.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T21:49:26.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\OrderDetailController.cs",
@@ -804,12 +900,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\OrderDetailController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T21:41:50.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T21:41:50.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Service\\BaseService.cs",
@@ -817,12 +912,11 @@
               "RelativeToolTip": "Infrastructure\\Service\\BaseService.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAcwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:49:45.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:49:45.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepository.cs",
@@ -830,12 +924,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:24:31.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:24:31.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IService.cs",
@@ -843,12 +936,11 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:38:10.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:38:10.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IRepository.cs",
@@ -856,12 +948,11 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:44.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:44.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\CategoryController.cs",
@@ -869,12 +960,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T00:02:25.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T00:02:25.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "IAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IAccountRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IAccountRepository.cs",
@@ -882,12 +972,11 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IAccountRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:11:02.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:11:02.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ApplicationUser.cs",
@@ -895,12 +984,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:57:09.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:57:09.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "VariationValue.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\VariationValue.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\VariationValue.cs",
@@ -908,12 +996,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\VariationValue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:18:11.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:18:11.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "CategoryVariation.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\CategoryVariation.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\CategoryVariation.cs",
@@ -921,12 +1008,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\CategoryVariation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:16:48.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:16:48.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Product.cs",
@@ -934,12 +1020,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Product.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:02.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:02.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Category.cs",
@@ -947,12 +1032,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Category.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:02:59.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:02:59.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "HasId.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\HasId.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\HasId.cs",
@@ -960,12 +1044,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\HasId.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:32:09.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T02:32:09.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "ProductVariationValues.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ProductVariationValues.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ProductVariationValues.cs",
@@ -973,25 +1056,23 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\ProductVariationValues.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:19:48.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:19:48.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TestApi",
+              "DocumentIndex": 35,
+              "Title": "TestApi.csproj",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\TestApi.csproj",
               "RelativeDocumentMoniker": "TestApi\\TestApi.csproj",
               "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\TestApi.csproj",
               "RelativeToolTip": "TestApi\\TestApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-06T19:09:23.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T19:09:23.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -999,25 +1080,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-03T18:44:54.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T18:44:54.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ShipperRegionController.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\ShipperRegionController.cs",
-              "RelativeDocumentMoniker": "TestApi\\Controllers\\ShipperRegionController.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\ShipperRegionController.cs",
-              "RelativeToolTip": "TestApi\\Controllers\\ShipperRegionController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAxwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:40:39.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "ShipperRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Model\\Request\\ShipperRequestModel.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Model\\Request\\ShipperRequestModel.cs",
@@ -1025,12 +1092,11 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ShipperRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:14.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:14.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "ShipperRegionRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Model\\Request\\ShipperRegionRequestModel.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Model\\Request\\ShipperRegionRequestModel.cs",
@@ -1038,12 +1104,11 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ShipperRegionRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:20.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:20.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "PaymentTypeRequestModel.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Model\\Request\\PaymentTypeRequestModel.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Model\\Request\\PaymentTypeRequestModel.cs",
@@ -1051,38 +1116,11 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\PaymentTypeRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:45:43.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:45:43.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ShipperRegionService.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\ShipperRegionService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Service\\ShipperRegionService.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\ShipperRegionService.cs",
-              "RelativeToolTip": "Infrastructure\\Service\\ShipperRegionService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwDYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:27:18.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ShipperRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ShipperRegionRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShipperRegionRepository.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ShipperRegionRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\ShipperRegionRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADwvyIAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:08:55.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\CategoryService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Service\\CategoryService.cs",
@@ -1090,25 +1128,11 @@
               "RelativeToolTip": "Infrastructure\\Service\\CategoryService.cs",
               "ViewState": "AQIAABsAAAAAAAAAAADgv0wAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:37:21.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:37:21.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IShipperRegionRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
-              "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IShipperRegionRepositoryAsync.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAWwA0AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:06:45.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "ShipperRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ShipperRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShipperRepository.cs",
@@ -1116,12 +1140,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\ShipperRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:34:12.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:34:12.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\ReviewService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Service\\ReviewService.cs",
@@ -1129,25 +1152,11 @@
               "RelativeToolTip": "Infrastructure\\Service\\ReviewService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:42:45.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:42:45.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IShipperRegionService.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
-              "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IShipperRegionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T20:24:54.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IShipperService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IShipperService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IShipperService.cs",
@@ -1155,12 +1164,11 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IShipperService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:38:11.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:38:11.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "IReviewService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IReviewService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IReviewService.cs",
@@ -1168,12 +1176,11 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IReviewService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:38:07.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:38:07.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "IShipperRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
@@ -1181,12 +1188,11 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IShipperRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:54.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:54.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IAccountService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IAccountService.cs",
@@ -1194,12 +1200,11 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IAccountService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:23:13.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:23:13.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "IPromotionService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\ServiceContracts\\IPromotionService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\ServiceContracts\\IPromotionService.cs",
@@ -1207,12 +1212,11 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IPromotionService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAWwA4AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:38:04.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:38:04.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "IReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
@@ -1220,12 +1224,11 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IReviewRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:51.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:51.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\ReviewRepository.cs",
@@ -1233,12 +1236,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\ReviewRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:41.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:41.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -1246,12 +1248,11 @@
               "RelativeToolTip": "launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T18:45:39.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T18:45:39.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\CategoryRepository.cs",
@@ -1259,12 +1260,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:36.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:36.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\AccountController.cs",
@@ -1272,12 +1272,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\AccountController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAcwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:28:36.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:28:36.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "CategoryVariationController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\CategoryVariationController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\CategoryVariationController.cs",
@@ -1285,12 +1284,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\CategoryVariationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:18:13.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T02:18:13.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "CategoryVariationService.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Service\\CategoryVariationService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Service\\CategoryVariationService.cs",
@@ -1298,12 +1296,11 @@
               "RelativeToolTip": "Infrastructure\\Service\\CategoryVariationService.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAAwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:03:54.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T02:03:54.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
@@ -1311,12 +1308,11 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:17.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:17.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\TestApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\ProductController.cs",
@@ -1324,12 +1320,11 @@
               "RelativeToolTip": "TestApi\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAswCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:03:21.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T17:03:21.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\Infrastructure\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
@@ -1337,12 +1332,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:38.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:38.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\UserRole.cs",
@@ -1350,12 +1344,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\UserRole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:59:04.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:59:04.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "UserAddress.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\UserAddress.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\UserAddress.cs",
@@ -1363,12 +1356,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\UserAddress.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:00:28.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:00:28.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ShoppingCartItem.cs",
@@ -1376,12 +1368,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\ShoppingCartItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:04:15.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:04:15.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ShoppingCart.cs",
@@ -1389,38 +1380,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\ShoppingCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:20:33.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:20:33.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ShipperRegion.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShipperRegion.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\ShipperRegion.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\ShipperRegion.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\ShipperRegion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:39:48.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Shipper.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Shipper.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Shipper.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Shipper.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\Shipper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:32:39.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Role.cs",
@@ -1428,12 +1392,11 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:44:59.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:44:59.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Review.cs",
@@ -1441,21 +1404,7 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Review.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:07.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Region.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Region.cs",
-              "ToolTip": "C:\\Users\\alex_\\Documents\\GitHub\\train\\TestApi\\ApplicationCore\\Entities\\Region.cs",
-              "RelativeToolTip": "ApplicationCore\\Entities\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:37:47.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:07.51Z"
             },
             {
               "$type": "Document",
@@ -1467,8 +1416,7 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\PromotionDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:04.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:04.331Z"
             },
             {
               "$type": "Document",
@@ -1480,8 +1428,7 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Promotion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:03:03.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:03:03.569Z"
             },
             {
               "$type": "Document",
@@ -1493,8 +1440,7 @@
               "RelativeToolTip": "ApplicationCore\\Entities\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:20:47.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:20:47.014Z"
             },
             {
               "$type": "Document",
@@ -1506,8 +1452,7 @@
               "RelativeToolTip": "Infrastructure\\Service\\AccountServiceAsync.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAhwDIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:25:04.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:25:04.002Z"
             },
             {
               "$type": "Document",
@@ -1519,8 +1464,7 @@
               "RelativeToolTip": "Infrastructure\\Service\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:42:34.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:42:34.89Z"
             },
             {
               "$type": "Document",
@@ -1532,8 +1476,7 @@
               "RelativeToolTip": "Infrastructure\\Service\\PromotionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:42:42.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:42:42.605Z"
             },
             {
               "$type": "Document",
@@ -1545,8 +1488,7 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\ICategoryService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAWwA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:37:56.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:37:56.992Z"
             },
             {
               "$type": "Document",
@@ -1558,8 +1500,7 @@
               "RelativeToolTip": "ApplicationCore\\ServiceContracts\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:38:02.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:38:02.488Z"
             },
             {
               "$type": "Document",
@@ -1571,8 +1512,7 @@
               "RelativeToolTip": "TestApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T16:12:49.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T16:12:49.748Z"
             },
             {
               "$type": "Document",
@@ -1584,8 +1524,7 @@
               "RelativeToolTip": "TestApi\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:46:57.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T18:46:57.881Z"
             },
             {
               "$type": "Document",
@@ -1597,8 +1536,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\VariationValueRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:49.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:49.225Z"
             },
             {
               "$type": "Document",
@@ -1610,8 +1548,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\UserRoleRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:46.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:46.195Z"
             },
             {
               "$type": "Document",
@@ -1623,8 +1560,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\UserAddressRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:38.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:38.352Z"
             },
             {
               "$type": "Document",
@@ -1636,8 +1572,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\SignUpRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:13:42.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:13:42.796Z"
             },
             {
               "$type": "Document",
@@ -1649,8 +1584,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ShoppingCartRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:25.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:25.069Z"
             },
             {
               "$type": "Document",
@@ -1662,8 +1596,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ShoppingCartItemRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:30.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:30.017Z"
             },
             {
               "$type": "Document",
@@ -1675,8 +1608,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\RoleRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:10.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:10.08Z"
             },
             {
               "$type": "Document",
@@ -1688,8 +1620,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ReviewRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:30:04.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:30:04.406Z"
             },
             {
               "$type": "Document",
@@ -1701,8 +1632,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\RegionRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:52.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:52.753Z"
             },
             {
               "$type": "Document",
@@ -1714,8 +1644,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\PromotionRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:48.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:48.497Z"
             },
             {
               "$type": "Document",
@@ -1727,8 +1656,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\PromotionDetailRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:58.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:58.449Z"
             },
             {
               "$type": "Document",
@@ -1740,8 +1668,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ProductVariationValuesRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:35:27.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:35:27.672Z"
             },
             {
               "$type": "Document",
@@ -1753,8 +1680,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\ProductRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:39.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:39.845Z"
             },
             {
               "$type": "Document",
@@ -1766,8 +1692,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\PaymentMethodRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:42:55.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:42:55.074Z"
             },
             {
               "$type": "Document",
@@ -1779,8 +1704,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\OrderRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:31.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:31.683Z"
             },
             {
               "$type": "Document",
@@ -1792,8 +1716,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\OrderDetailRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:43:05.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:43:05.762Z"
             },
             {
               "$type": "Document",
@@ -1805,8 +1728,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\LoginRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T20:06:17.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T20:06:17.821Z"
             },
             {
               "$type": "Document",
@@ -1818,8 +1740,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\CustomerRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:29:23.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:29:23.4Z"
             },
             {
               "$type": "Document",
@@ -1831,8 +1752,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\CategoryVariationRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:31:13.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:31:13.932Z"
             },
             {
               "$type": "Document",
@@ -1844,8 +1764,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\CategoryRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T00:11:59.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T00:11:59.942Z"
             },
             {
               "$type": "Document",
@@ -1857,8 +1776,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Request\\AddressRequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:28:59.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:28:59.93Z"
             },
             {
               "$type": "Document",
@@ -1870,8 +1788,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\CategoryResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:25:31.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:25:31.942Z"
             },
             {
               "$type": "Document",
@@ -1883,8 +1800,7 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:38.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:38.818Z"
             },
             {
               "$type": "Document",
@@ -1896,8 +1812,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\AddressResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:25:29.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:25:29.005Z"
             },
             {
               "$type": "Document",
@@ -1909,8 +1824,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240503010844_cusfix.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAwA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T01:08:44.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T01:08:44.938Z"
             },
             {
               "$type": "Document",
@@ -1922,8 +1836,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\ShoppingCartRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:34:15.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:34:15.91Z"
             },
             {
               "$type": "Document",
@@ -1935,8 +1848,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:39.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:39.572Z"
             },
             {
               "$type": "Document",
@@ -1948,8 +1860,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\CustomerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:37.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:37.525Z"
             },
             {
               "$type": "Document",
@@ -1961,8 +1872,7 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IPromotionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:41.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:41.716Z"
             },
             {
               "$type": "Document",
@@ -1974,8 +1884,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\PromotionResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:38.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:38.069Z"
             },
             {
               "$type": "Document",
@@ -1987,8 +1896,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\VariationValueResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:29:00.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:29:00.672Z"
             },
             {
               "$type": "Document",
@@ -2000,8 +1908,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\UserRoleResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:28:57.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:28:57.085Z"
             },
             {
               "$type": "Document",
@@ -2013,8 +1920,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\UserAddressResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:28:53.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:28:53.417Z"
             },
             {
               "$type": "Document",
@@ -2026,8 +1932,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\SignUpResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:28:49.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:28:49.067Z"
             },
             {
               "$type": "Document",
@@ -2039,8 +1944,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ShoppingCartResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:28:11.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:28:11.187Z"
             },
             {
               "$type": "Document",
@@ -2052,8 +1956,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ShoppingCartItemResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:28:01.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:28:01.978Z"
             },
             {
               "$type": "Document",
@@ -2065,8 +1968,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ShipperResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:58.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:58.659Z"
             },
             {
               "$type": "Document",
@@ -2078,8 +1980,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ShipperRegionResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:54.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:54.735Z"
             },
             {
               "$type": "Document",
@@ -2091,8 +1992,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ReviewResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:46.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:46.25Z"
             },
             {
               "$type": "Document",
@@ -2104,8 +2004,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\RoleResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:51.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:51.024Z"
             },
             {
               "$type": "Document",
@@ -2117,8 +2016,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\PaymentMethodResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:19.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:19.767Z"
             },
             {
               "$type": "Document",
@@ -2130,8 +2028,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\OrderResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:15.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:15.632Z"
             },
             {
               "$type": "Document",
@@ -2143,8 +2040,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\OrderDetailResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:09.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:09.833Z"
             },
             {
               "$type": "Document",
@@ -2156,8 +2052,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\CustomerResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwBEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:26:30.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:26:30.164Z"
             },
             {
               "$type": "Document",
@@ -2169,8 +2064,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\CategoryVariationResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:26:27.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:26:27.126Z"
             },
             {
               "$type": "Document",
@@ -2182,8 +2076,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\RegionResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:42.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:42.492Z"
             },
             {
               "$type": "Document",
@@ -2195,8 +2088,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\PromotionDetailResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:34.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:34.621Z"
             },
             {
               "$type": "Document",
@@ -2208,8 +2100,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ProductVariationValuesResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:31.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:31.107Z"
             },
             {
               "$type": "Document",
@@ -2221,8 +2112,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\ProductResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:27.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:27.599Z"
             },
             {
               "$type": "Document",
@@ -2234,8 +2124,7 @@
               "RelativeToolTip": "ApplicationCore\\Model\\Response\\PaymentTypeResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T00:27:23.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T00:27:23.707Z"
             },
             {
               "$type": "Document",
@@ -2247,8 +2136,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502213456_udpateshipper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:34:56.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:34:56.655Z"
             },
             {
               "$type": "Document",
@@ -2260,8 +2148,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502232756_promotionfix.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:27:57.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:27:57.129Z"
             },
             {
               "$type": "Document",
@@ -2273,8 +2160,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502232536_order-detail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:25:36.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:25:36.875Z"
             },
             {
               "$type": "Document",
@@ -2286,8 +2172,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502232239_order-check.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:22:39.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:22:39.77Z"
             },
             {
               "$type": "Document",
@@ -2326,8 +2211,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502231126_paymentmethod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:11:26.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:11:26.708Z"
             },
             {
               "$type": "Document",
@@ -2339,8 +2223,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502230831_paymenttypes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:08:32.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:08:32.307Z"
             },
             {
               "$type": "Document",
@@ -2352,8 +2235,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502230702_shoppingcartitem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:07:02.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:07:02.27Z"
             },
             {
               "$type": "Document",
@@ -2365,8 +2247,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502230400_shopping cart update.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:04:00.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:04:00.952Z"
             },
             {
               "$type": "Document",
@@ -2378,8 +2259,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502230226_DbSet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T23:02:26.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T23:02:26.397Z"
             },
             {
               "$type": "Document",
@@ -2391,8 +2271,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502225913_address.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:59:13.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:59:13.478Z"
             },
             {
               "$type": "Document",
@@ -2404,8 +2283,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502221939_product fix.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:19:39.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:19:39.639Z"
             },
             {
               "$type": "Document",
@@ -2417,8 +2295,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502220140_userrole fix.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:01:41.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:01:41.061Z"
             },
             {
               "$type": "Document",
@@ -2430,8 +2307,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502220048_userrole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T22:00:48.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T22:00:48.276Z"
             },
             {
               "$type": "Document",
@@ -2443,8 +2319,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502214616_role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:46:16.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:46:16.881Z"
             },
             {
               "$type": "Document",
@@ -2456,8 +2331,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\AccountRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:12:21.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:12:21.904Z"
             },
             {
               "$type": "Document",
@@ -2469,8 +2343,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502214117_udpateshipperregion.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:41:17.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:41:17.296Z"
             },
             {
               "$type": "Document",
@@ -2482,8 +2355,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502213913_udpateregions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:39:13.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:39:13.293Z"
             },
             {
               "$type": "Document",
@@ -2495,8 +2367,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502213217_udpateProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:32:17.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:32:17.271Z"
             },
             {
               "$type": "Document",
@@ -2508,8 +2379,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502212927_productVariationValues.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:29:27.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:29:27.203Z"
             },
             {
               "$type": "Document",
@@ -2521,8 +2391,7 @@
               "RelativeToolTip": "Infrastructure\\Service\\ShipperService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAewCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:42:47.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:42:47.162Z"
             },
             {
               "$type": "Document",
@@ -2534,8 +2403,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502212341_variationValue.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:23:42.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:23:42.237Z"
             },
             {
               "$type": "Document",
@@ -2547,8 +2415,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502212243_categoryVariation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:22:43.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:22:43.385Z"
             },
             {
               "$type": "Document",
@@ -2560,8 +2427,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240502190956_authen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:09:57.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T19:09:57.122Z"
             },
             {
               "$type": "Document",
@@ -2573,8 +2439,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\PromotionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:33:40.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:33:40.193Z"
             },
             {
               "$type": "Document",
@@ -2586,8 +2451,7 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\ICustomerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:19.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:19.75Z"
             },
             {
               "$type": "Document",
@@ -2599,8 +2463,7 @@
               "RelativeToolTip": "ApplicationCore\\RepositoryContracts\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T23:23:33.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T23:23:33.792Z"
             },
             {
               "$type": "Document",
@@ -2612,8 +2475,7 @@
               "RelativeToolTip": "TestApi\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:46:16.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T18:46:16.844Z"
             }
           ]
         }

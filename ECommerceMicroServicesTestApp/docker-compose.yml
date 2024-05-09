@@ -26,3 +26,12 @@ services:
     ports:
     - 8080:8080
 
+
+  shipper:
+    image: ${DOCKER_REGISTRY-}shipper
+    build:
+      context: .
+      dockerfile: Shipper/Dockerfile
+    ports:
+    - 43158:8080
+

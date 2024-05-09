@@ -59,3 +59,12 @@ C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Mi
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Newtonsoft.Json.Bson.dll
 C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\ApiGateway.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.deps.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.runtimeconfig.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.exe
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.Infrastructure.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\bin\Debug\Shipper.Infrastructure.pdb

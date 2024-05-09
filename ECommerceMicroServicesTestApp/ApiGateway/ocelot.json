@@ -240,7 +240,181 @@
         }
       ],
       "DownStreamPathTemplate": "/api/OrderDetail/Delete/{Id}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/Region/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Region/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Region/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Region/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Region/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Region/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Region/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Region/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Region/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Region/Delete/{Id}"
+    },
+
+
+    {
+      "UpstreamPathTemplate": "/api/Shipper/GetAll",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Shipper/GetAll"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Shipper/Get/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Shipper/Get/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Shipper/Insert",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Shipper/Insert"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Shipper/Update",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Shipper/Update"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Shipper/Delete/{Id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/Shipper/Delete/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ShipperRegion/GetByShipperId/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/ShipperRegion/GetByShipperId/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ShipperRegion/GetByRegionId/{Id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/ShipperRegion/GetByRegionId/{Id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ShipperRegion/Create",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/ShipperRegion/Create"
+    },
+    {
+      "UpstreamPathTemplate": "/api/ShipperRegion/Delete",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "shipper",
+          "Port": 8080
+        }
+      ],
+      "DownStreamPathTemplate": "/api/ShipperRegion/Delete"
     }
+
+
+
 
   ],
   "GlobalConfiguration": {

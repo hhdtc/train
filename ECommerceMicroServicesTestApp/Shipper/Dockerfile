@@ -1,0 +1,28 @@
+#See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+USER app
+WORKDIR /app
+EXPOSE 8080
+ENV ShipperDbContext="Data Source=host.docker.internal;Initial Catalog=ShipperDb;User ID=sa;Password=SomeStrongPassword123!;Integrated Security=False;Trust Server Certificate=True"
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+
+COPY ["Shipper/Shipper.csproj", "Shipper/"]
+COPY ["Shipper.Infrastructure/Shipper.Infrastructure.csproj", "Shipper.Infrastructure/"]
+COPY ["Shipper.ApplicationCore/Shipper.ApplicationCore.csproj", "Shipper.ApplicationCore/"]
+RUN dotnet restore "./Shipper/Shipper.csproj"
+COPY . .
+WORKDIR "/src/Shipper"
+RUN dotnet build "./Shipper.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "./Shipper.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "Shipper.dll"]

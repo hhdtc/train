@@ -1,0 +1,15 @@
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\bin\Debug\net8.0\Shipper.ApplicationCore.deps.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\bin\Debug\net8.0\Shipper.ApplicationCore.runtimeconfig.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\bin\Debug\net8.0\Shipper.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\bin\Debug\net8.0\Shipper.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.AssemblyInfo.cs
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.sourcelink.json
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\refint\Shipper.ApplicationCore.dll
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.pdb
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\Shipper.ApplicationCore.genruntimeconfig.cache
+C:\Users\alex_\Documents\GitHub\train\ECommerceMicroServicesTestApp\Shipper.ApplicationCore\obj\Debug\net8.0\ref\Shipper.ApplicationCore.dll

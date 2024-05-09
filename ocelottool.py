@@ -63,9 +63,9 @@ original = '''
   "DownStreamPathTemplate": "/api/Product/Delete/{Id}"
 },
 '''
-original = original.replace("productcatalog","orderapi")
+original = original.replace("productcatalog","shipper")
 # NewWord = input("Enter the new word: ")
-modified = original.replace("Product", "OrderDetail")
+modified = original.replace("Product", "Shipper")
 print(modified)
 # ... existing code ...
 

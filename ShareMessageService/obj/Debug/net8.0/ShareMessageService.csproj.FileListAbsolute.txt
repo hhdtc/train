@@ -10,3 +10,4 @@ C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\Share
 C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\refint\ShareMessageService.dll
 C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.pdb
 C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ref\ShareMessageService.dll
+C:\Users\alex_\Documents\GitHub\train\ShareMessageService\obj\Debug\net8.0\ShareMessageService.csproj.AssemblyReference.cache
